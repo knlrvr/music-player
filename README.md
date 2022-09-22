@@ -1,4 +1,5 @@
-<center> music-player </center>
+<h2 align="center"> Music Player </h2>
+<br>
 A music player, made with JavaScript, featuring a song I produced myself. 
 A random background color generates each time the page is reloaded. 
 
