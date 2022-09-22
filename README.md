@@ -1,4 +1,4 @@
-# music-player
+<center> music-player </center>
 A music player, made with JavaScript, featuring a song I produced myself. 
 A random background color generates each time the page is reloaded. 
 
